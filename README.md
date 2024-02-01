@@ -7,7 +7,7 @@
 </p>
 <br>
 
-<h3 align="center">Formas de contacto:</h3>
+<h4 align="center">Formas de contacto:</h4>
 <p align="center">
   <a href="mailto:samuelathaus@gmail.com">
     <img src="https://img.icons8.com/material-outlined/24/000000/email.png"/>
@@ -19,7 +19,7 @@
 </p>  
 <br>
 
-<h3 align="center">Lenguajes y tecnologías:</h3>
+<h4 align="center">Lenguajes y tecnologías:</h4>
 <table align="center">
   <tr>
     <th align="center">Lenguajes</th>
@@ -58,6 +58,8 @@
 
 <p align="center">    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="30" height="30"> Git </p>
 <br>
+
+<h4 align="center">Entretenida información adicional:</h4>
 <br>
 
 <p align="center">
