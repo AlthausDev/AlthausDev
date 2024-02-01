@@ -4,7 +4,6 @@
   <i>Desarrollador apasionado con un insaciable deseo de explorar, aprender y dominar diversas tecnologías. Dedicado e incansable, sin miedo a invertir incontables     horas en el desarrollo, la experimentación, el crecimiento profesional y el desarrollo personal.</i>
 </p>
 <br>
-
 <h4 align="center">Formas de contacto:</h4>
 <p align="center">
   <a href="mailto:samuelathaus@gmail.com">
@@ -17,10 +16,12 @@
 </p>  
 
 <br>
-<h4 align="center">Lenguajes y tecnologías:</h4>
-<table align="center">
+
+<h4 align="center">Lenguajes y tecnologías:</h4><table align="center">
+  
+---
   <tr>
-    <th align="center">Lenguajes</th>
+    <th align="center">Lenguaje</th>
     <th align="center">FrameWorks</th>
     <th align="center">Bases de datos</th>
   </tr>
@@ -32,7 +33,9 @@
       <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="Spring" width="30" height="30"> Spring
     </td>
     <td align="center">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="30" height="30"> MySQL
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="30" height="30"> MySQL <br>
+      <img src="https://img.icons8.com/ios-filled/50/000000/database.png" alt="DB4O" width="30" height="30"> DB4O <br>
+      <img src="https://img.icons8.com/ios-filled/50/000000/database.png" alt="ObjectDB" width="30" height="30"> ObjectDB
     </td>
   </tr>  
   <tr>
@@ -41,6 +44,8 @@
     </td>
     <td align="center">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt=".NET" width="30" height="30"> .NET
+    </td>
+    <td align="center">
     </td>
   </tr>
   <tr>
@@ -59,6 +64,7 @@
 
 <h4 align="center">Entretenida información adicional:</h4>
 
+---
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=althausdev&show_icons=true&locale=en&layout=compact" alt="Top Langs">
 </p>
