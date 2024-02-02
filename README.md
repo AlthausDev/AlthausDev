@@ -4,22 +4,27 @@
   <i>Desarrollador apasionado con un insaciable deseo de explorar, aprender y dominar diversas tecnologías. Dedicado e incansable, sin miedo a invertir incontables     horas en el desarrollo, la experimentación, el crecimiento profesional y el desarrollo personal.</i>
 </p>
 <br>
-<h4 align="center">Formas de contacto:</h4>
+<h4 align="center">¿Contacto? ¡Contacto!</h4>
 <p align="center">
-  <a href="mailto:samuelathaus@gmail.com">
-    <img src="https://img.icons8.com/material-outlined/24/000000/email.png"/>
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/samuelalthaus/" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="samuel althaus alonso" height="30" width="40" />
-  </a>
+    <a href="https://www.linkedin.com/in/samuelalthaus/">
+      <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn samuel althaus alonso" height="30" width="40" />
+    </a>
+    &nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="mailto:samuelathaus@gmail.com">
+      <img align="center" src="https://img.icons8.com/fluent/48/000000/gmail.png" alt="Email samuel althaus alonso"  width="40" />
+    </a>
 </p>  
 
 <br>
 
-<h4 align="center">Lenguajes y tecnologías:</h4><table align="center">
-  
----
+<p align="center">
+  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="35">
+  &nbsp;
+  <b>Lenguajes y tecnologías:</b>
+</p>
+
+<table align="center">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
   <tr>
     <th align="center">Lenguaje</th>
     <th align="center">FrameWorks</th>
@@ -59,12 +64,14 @@
   </tr> 
 </table>
 
-<p align="center">    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="30" height="30"> Git </p>
+<br>
+  <p align="center">    
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="30" height="30"> Git 
+  </p>
 <br>
 
-<h4 align="center">Entretenida información adicional:</h4>
-
----
+<h4 align="center">Stats - Entretenida información adicional: </h4>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=althausdev&show_icons=true&locale=en&layout=compact" alt="Top Langs">
 </p>
