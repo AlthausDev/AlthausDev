@@ -1,19 +1,14 @@
-# <p align="center">Bienvenido a mi perfil de GitHub. Soy Althaus.</p>
+# <p align="center">Bienvenido a mi perfil de GitHub.</p>
+<h3 align="center">Hola, soy Althaus_Dev</h3>
 
 <p align="center">
-  <i>Desarrollador apasionado con un insaciable deseo de explorar, aprender y dominar diversas tecnologías. Dedicado e incansable, sin miedo a invertir incontables     horas en el desarrollo, la experimentación, el crecimiento profesional y el desarrollo personal.</i>
+  <i>Desarrollador con un fuerte interés en explorar y aprender diversas tecnologías. Comprometido con el desarrollo continuo y la mejora profesional.</i>
 </p>
+
 <br>
-<h4 align="center">¿Contacto? ¡Contacto!</h4>
 <p align="center">
-    <a href="https://www.linkedin.com/in/samuelalthaus/">
-      <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn samuel althaus alonso" height="30" width="40" />
-    </a>
-    &nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="mailto:samuelathaus@gmail.com">
-      <img align="center" src="https://img.icons8.com/fluent/48/000000/gmail.png" alt="Email samuel althaus alonso"  width="40" />
-    </a>
-</p>  
+  <img src="https://komarev.com/ghpvc/?username=althausdev&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views">
+</p>
 
 <br>
 
@@ -70,7 +65,7 @@
   </p>
 <br>
 
-<h4 align="center">Stats - Entretenida información adicional: </h4>
+<h4 align="center">Stats</h4>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=althausdev&show_icons=true&locale=en&layout=compact" alt="Top Langs">
@@ -80,6 +75,3 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=althausdev" alt="GitHub Streak">
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=althausdev&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views">
-</p>
