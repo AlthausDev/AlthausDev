@@ -1,10 +1,3 @@
-# <p align="center">Bienvenido a mi perfil de GitHub.</p>
-<h3 align="center">Hola, soy Althaus_Dev</h3>
-
-<p align="center">
-  <i>Desarrollador con un fuerte interés en explorar y aprender diversas tecnologías. Comprometido con el desarrollo continuo y la mejora profesional.</i>
-</p>
-
 <br>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=althausdev&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views">
