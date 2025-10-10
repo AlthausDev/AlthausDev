@@ -15,7 +15,7 @@
 
 ### 🧭 Sobre mí
 
-Soy desarrollador de software con experiencia en **proyectos gubernamentales de gran confidencialidad**, trabajando en aplicaciones críticas del sector **justicia, notariado, registros y aseguradoras**, donde la **fiabilidad, trazabilidad y cumplimiento normativo** son esenciales.
+Soy desarrollador de software con experiencia en **proyectos gubernamentales de gran confidencialidad**, trabajando en aplicaciones críticas del sector, donde la **fiabilidad, trazabilidad y cumplimiento normativo** son esenciales.
 
 Trabajo principalmente con **Java 1.8**, **Struts 2**, y **Spring Boot**, en entornos de **mantenimiento evolutivo y correctivo**, asegurando la continuidad de sistemas complejos, la refactorización de código heredado y la incorporación progresiva de prácticas modernas.  
 
