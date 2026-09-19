@@ -2,7 +2,7 @@
 
 <p align="center">
   <b>Java · Clean Architecture · Enterprise Applications · Integrations</b><br>
-  <i>Intentando que el código tenga menos secretos que el sistema que lo ejecuta</i>
+  <i>Intentando que el código haga lo que dice, que ya sería bastante</i>
 </p>
 
 <p align="center">
@@ -13,15 +13,17 @@
 
 ## Sobre mí
 
-Soy desarrollador **backend**, principalmente con **Java**. Trabajo con aplicaciones empresariales, una clase de criatura que suele llegar acompañada de documentación incompleta, decisiones antiguas y al menos una pieza que nadie quiere tocar porque, técnicamente, sigue funcionando.
+Soy desarrollador **backend**, principalmente con **Java**.
 
-Mi experiencia profesional gira alrededor de **Java, Struts 2, JSP, Maven, Oracle, SOAP, WSDL/XML, Apache CXF y JAXB**, con **JUnit, Mockito, SonarQube, JaCoCo, Git/GitLab, JBoss y Jenkins** formando parte habitual del ecosistema.
+Trabajo con aplicaciones empresariales, que son sistemas perfectamente racionales siempre que uno acepte una definición de «racional» lo bastante generosa como para incluir decisiones tomadas hace quince años, tres migraciones incompletas y una clase que nadie toca porque *funciona*.[^1]
 
-Mi forma de diseñar está muy influida por **Clean Architecture de Robert C. Martin**: responsabilidades claras, dependencias controladas y la firme convicción de que la infraestructura debería permanecer en su sitio, donde pueda ser vigilada.
+Mi hábitat habitual incluye **Java, Struts 2, JSP, Maven, Oracle, SOAP, WSDL/XML, Apache CXF y JAXB**. Por allí merodean también **JUnit, Mockito, SonarQube, JaCoCo, Git/GitLab, JBoss y Jenkins**, cada uno convencido de que es la parte importante del proceso.
 
-También he hecho mis pinitos con **Spring Boot, C#/.NET, WPF, Kotlin/Jetpack Compose, Angular/TypeScript, MongoDB, Firebase, REST, Python, PowerShell y Docker**. Algunas las manejo bien. Con otras mantengo una relación cordial basada en documentación, prudencia y no tocar nada con demasiada confianza.
+Diseño siguiendo bastante de cerca **Clean Architecture de Robert C. Martin**: responsabilidades claras, dependencias apuntando donde deben y detalles de infraestructura mantenidos a una distancia prudencial de la lógica importante.
 
-Buena parte de mi trabajo profesional no puede publicarse por confidencialidad, así que este GitHub contiene sobre todo **proyectos personales, formación y laboratorios técnicos**: lugares seguros donde romper cosas tiene consecuencias principalmente educativas.
+También he hecho mis pinitos con **Spring Boot, C#/.NET, WPF, Kotlin/Jetpack Compose, Angular/TypeScript, MongoDB, Firebase, REST, Python, PowerShell y Docker**. Algunas las conozco bien. Otras las conozco del modo en que uno conoce a un vecino: sé cómo se llama, dónde vive y qué puerta no conviene abrir sin leer antes la documentación.
+
+Buena parte de mi trabajo profesional es confidencial, así que este GitHub contiene sobre todo **proyectos personales, formación y laboratorios técnicos**. Es decir: lugares donde una mala decisión arquitectónica termina en un commit revertido y no en una reunión extraordinaria.
 
 📎 [LinkedIn — Samuel Althaus](https://www.linkedin.com/in/samuelalthaus/)
 
@@ -43,33 +45,40 @@ Buena parte de mi trabajo profesional no puede publicarse por confidencialidad, 
 
 He trabajado con **Clean Architecture, Repository, Service Layer, Factory, Strategy, Dependency Injection, MVC y MVVM**.
 
-Me gustan los patrones cuando resuelven un problema. Si una interfaz no representa un contrato, una capa no separa responsabilidades y una abstracción no abstrae nada, quizá no tengamos arquitectura: quizá tengamos una colección de carpetas con ambiciones.
+Me gustan los patrones. Me gustan especialmente cuando solucionan algo.
 
-**La arquitectura debe ayudar a entender el sistema, no convertirlo en una expedición arqueológica.**
+Una interfaz que no representa un contrato, una capa que no separa nada y una abstracción que obliga a abrir seis archivos para averiguar dónde se suma dos más dos no son arquitectura. Son burocracia con llaves y punto y coma.[^2]
+
+La regla, por tanto, es sencilla:
+
+**la arquitectura debe reducir el misterio, no institucionalizarlo.**
 
 ---
 
 ## Cómo trabajo
 
 <pre>
-Entender qué hace el sistema
+Entender qué hace
   ↓
-Descubrir qué debería hacer
+Entender qué debería hacer
   ↓
-Separar responsabilidades
+Encontrar quién es responsable
   ↓
-Definir fronteras útiles
+Separar lo que no debería conocerse
   ↓
 Implementar y probar
   ↓
 Refactorizar
   ↓
-Convencer a Sonar
+Negociar con Sonar
   ↓
 Documentar y entregar
 </pre>
 
-El objetivo final es sencillo: que el siguiente desarrollador pueda seguir el código sin recurrir a espiritismo, paleografía o `git blame` como instrumento de investigación criminal.
+El objetivo es que el siguiente desarrollador pueda entender el código sin necesidad de arqueología, espiritismo ni una sesión particularmente rencorosa de `git blame`.
+
+[^1]: En software empresarial, «funciona» no significa necesariamente que nadie sepa por qué.
+[^2]: A veces también XML.
 
 ---
 
