@@ -2,7 +2,7 @@
 
 <p align="center">
   <b>Java · Clean Architecture · Enterprise Applications · Integrations</b><br>
-  <i>Diseño modular, patrones con propósito y código mantenible</i>
+  <i>Diseño modular, patrones con propósito y el saludable deseo de que cada clase sepa por qué existe</i>
 </p>
 
 <p align="center">
@@ -15,15 +15,15 @@
 
 Desarrollador de software centrado principalmente en **backend con Java**, mantenimiento evolutivo, integraciones y refactorización de aplicaciones empresariales.
 
-Trabajo habitualmente con **Java 8, Struts 2, JSP, Maven, Oracle y SOAP**, además de **WSDL/XML, Apache CXF y JAXB**. El ciclo de entrega incluye **JUnit, Mockito, JaCoCo, SonarQube, Git/GitLab y Jenkins** sobre pipelines ya establecidos.
+Trabajo habitualmente con **Java 8, Struts 2, JSP, Maven, Oracle y SOAP**, además de **WSDL/XML, Apache CXF y JAXB**. También convivo con **JUnit, Mockito, JaCoCo, SonarQube, Git/GitLab, JBoss, Log4j y Jenkins**. Algunos por elección. Otros porque el software empresarial, como ciertas especies geológicas, lleva allí mucho antes que uno.
 
 Actualmente también estoy incorporando **Java 17** en un nuevo componente construido sobre un framework corporativo basado en **Spring**.
 
-Mi forma de diseñar está muy influida por **Clean Architecture de Robert C. Martin**: separar responsabilidades, controlar dependencias, aislar infraestructura y mantener la lógica importante desacoplada de frameworks, persistencia y UI.
+Mi forma de diseñar está muy influida por **Clean Architecture de Robert C. Martin**: separar responsabilidades, controlar dependencias, aislar infraestructura y evitar que la lógica importante termine sabiendo cosas que jamás debió conocer.
 
-Uso patrones cuando aportan una frontera o responsabilidad real; evito capas e interfaces decorativas.
+Los patrones me gustan cuando resuelven un problema. Una interfaz, una capa o un repositorio deberían pagar alquiler; si solo están ahí porque “siempre se hace así”, tarde o temprano alguien tendrá que explicar su presencia ante un comité imaginario bastante severo.
 
-Buena parte de mi trabajo profesional no puede publicarse por confidencialidad, por lo que este GitHub recoge principalmente proyectos personales, formación y laboratorios técnicos.
+Buena parte de mi trabajo profesional no puede publicarse por confidencialidad, así que este GitHub recoge sobre todo proyectos personales, formación y laboratorios técnicos.
 
 📎 [LinkedIn — Samuel Althaus](https://www.linkedin.com/in/samuelalthaus/)
 
@@ -44,9 +44,13 @@ Buena parte de mi trabajo profesional no puede publicarse por confidencialidad, 
 
 ## Arquitectura y diseño
 
-He trabajado con **Clean Architecture, Repository, Service Layer, Factory, Strategy, Dependency Injection, MVC y MVVM**, aplicándolos cuando ayudan a expresar mejor las responsabilidades del sistema.
+He trabajado con **Clean Architecture, Repository, Service Layer, Factory, Strategy, Dependency Injection, MVC y MVVM**.
 
-La **arquitectura hexagonal** y los **microservicios** forman parte actualmente de mi estudio práctico, no de mi experiencia profesional consolidada.
+No colecciono patrones como cromos. Si una abstracción ayuda a separar una responsabilidad, controlar una dependencia o hacer el sistema más legible, bienvenida sea. Si no, probablemente ya tenemos suficientes carpetas.
+
+La **arquitectura hexagonal** y los **microservicios** están ahora mismo en la categoría de “cosas que estoy estudiando seriamente antes de fingir que las domino”.
+
+También he hecho mis pinitos con **Spring Boot, C#/.NET, ASP.NET Core, WPF, Kotlin/Jetpack Compose, Angular/TypeScript, MongoDB, Firebase/Firestore, REST, Python, PowerShell y Docker**. Algunas las manejo razonablemente; otras han pasado por mis manos el tiempo suficiente para enseñarme algo y marcharse antes de que pudiera atribuirme una relación estable.
 
 ---
 
@@ -67,6 +71,8 @@ Validar calidad y documentar
 </pre>
 
 **La arquitectura debe explicar el sistema, no esconderlo detrás de ceremonia.**
+
+Y, si es posible, el siguiente desarrollador debería poder entender el código sin necesidad de convocar a sus antepasados.
 
 ---
 
