@@ -2,7 +2,7 @@
 
 <p align="center">
   <b>Java · Clean Architecture · Enterprise Applications · Integrations</b><br>
-  <i>Diseño modular, patrones con propósito y el saludable deseo de que cada clase sepa por qué existe</i>
+  <i>Intentando que el código tenga menos secretos que el sistema que lo ejecuta</i>
 </p>
 
 <p align="center">
@@ -13,23 +13,30 @@
 
 ## Sobre mí
 
-Desarrollador de software centrado principalmente en **backend con Java**, mantenimiento evolutivo, integraciones y refactorización de aplicaciones empresariales.
+Soy desarrollador **backend**, principalmente con **Java**.
 
-Trabajo habitualmente con **Java 8, Struts 2, JSP, Maven, Oracle y SOAP**, además de **WSDL/XML, Apache CXF y JAXB**. También convivo con **JUnit, Mockito, JaCoCo, SonarQube, Git/GitLab, JBoss, Log4j y Jenkins**. Algunos por elección. Otros porque el software empresarial, como ciertas especies geológicas, lleva allí mucho antes que uno.
+Eso significa que paso una cantidad razonable de tiempo construyendo cosas y una cantidad menos razonable averiguando por qué una aplicación empresarial decidió que hoy no iba a colaborar.
 
-Actualmente también estoy incorporando **Java 17** en un nuevo componente construido sobre un framework corporativo basado en **Spring**.
+Mi ecosistema habitual incluye **Java 8, Struts 2, JSP, Maven, Oracle y SOAP**, acompañado de **WSDL/XML, Apache CXF y JAXB**. Por los alrededores también viven **JUnit, Mockito, JaCoCo, SonarQube, Git/GitLab, JBoss, Log4j y Jenkins**.
 
-Mi forma de diseñar está muy influida por **Clean Architecture de Robert C. Martin**: separar responsabilidades, controlar dependencias, aislar infraestructura y evitar que la lógica importante termine sabiendo cosas que jamás debió conocer.
+Java 8 lleva años ahí. Struts también. Nadie recuerda exactamente quién puso algunas de esas cosas en su sitio, pero moverlas sin preguntar suele despertar criaturas.
 
-Los patrones me gustan cuando resuelven un problema. Una interfaz, una capa o un repositorio deberían pagar alquiler; si solo están ahí porque “siempre se hace así”, tarde o temprano alguien tendrá que explicar su presencia ante un comité imaginario bastante severo.
+Actualmente estoy empezando a trabajar también con **Java 17** sobre un framework corporativo basado en **Spring**, lo que resulta agradable porque confirma que el calendario, de vez en cuando, sí avanza.
 
-Buena parte de mi trabajo profesional no puede publicarse por confidencialidad, así que este GitHub recoge sobre todo proyectos personales, formación y laboratorios técnicos.
+Mi forma de diseñar está muy influida por **Clean Architecture de Robert C. Martin**: responsabilidades claras, dependencias controladas, infraestructura en su sitio y lógica de negocio procurando no enterarse de detalles que no son asunto suyo.
+
+Me gustan los patrones de diseño.  
+Me gustan bastante menos los patrones de diseño puestos porque alguien encontró una lista de patrones de diseño.
+
+Una abstracción debería resolver un problema. Una interfaz debería representar un contrato útil. Una capa debería separar algo que realmente merezca estar separado. Si no, solo hemos conseguido que el mismo problema necesite más archivos.
+
+Buena parte de mi trabajo profesional no puede publicarse por confidencialidad, así que este GitHub contiene sobre todo **proyectos personales, ejercicios, experimentos y laboratorios técnicos**.
 
 📎 [LinkedIn — Samuel Althaus](https://www.linkedin.com/in/samuelalthaus/)
 
 ---
 
-## Stack profesional
+## Lo que uso de verdad
 
 | Área | Tecnologías |
 |---|---|
@@ -42,22 +49,28 @@ Buena parte de mi trabajo profesional no puede publicarse por confidencialidad, 
 
 ---
 
-## Arquitectura y diseño
+## Arquitectura, patrones y otras formas de ordenar el caos
 
 He trabajado con **Clean Architecture, Repository, Service Layer, Factory, Strategy, Dependency Injection, MVC y MVVM**.
 
-No colecciono patrones como cromos. Si una abstracción ayuda a separar una responsabilidad, controlar una dependencia o hacer el sistema más legible, bienvenida sea. Si no, probablemente ya tenemos suficientes carpetas.
+La idea general es sencilla: que cada pieza sepa lo que tiene que saber y, sobre todo, que ignore con entusiasmo todo lo demás.
 
-La **arquitectura hexagonal** y los **microservicios** están ahora mismo en la categoría de “cosas que estoy estudiando seriamente antes de fingir que las domino”.
+También estoy estudiando **arquitectura hexagonal** y **microservicios**. Los menciono porque estoy trabajando con ellos, no porque haya alcanzado ese curioso estadio profesional en el que uno añade “arquitecto” a cualquier cosa que haya compilado dos veces.
 
-También he hecho mis pinitos con **Spring Boot, C#/.NET, ASP.NET Core, WPF, Kotlin/Jetpack Compose, Angular/TypeScript, MongoDB, Firebase/Firestore, REST, Python, PowerShell y Docker**. Algunas las manejo razonablemente; otras han pasado por mis manos el tiempo suficiente para enseñarme algo y marcharse antes de que pudiera atribuirme una relación estable.
+Por el camino también he hecho mis pinitos con **Spring Boot, C#/.NET, ASP.NET Core, WPF, Kotlin/Jetpack Compose, Angular/TypeScript, MongoDB, Firebase/Firestore, REST, Python, PowerShell y Docker**.
+
+Con algunas podría sentarme a trabajar.  
+Con otras podría mantener una conversación educada.  
+Y con alguna sabría, al menos, qué documentación abrir antes de causar un incidente.
 
 ---
 
 ## Cómo trabajo
 
 <pre>
-Entender el problema
+Entender qué está pasando
+  ↓
+Descubrir qué debería estar pasando
   ↓
 Separar responsabilidades
   ↓
@@ -67,12 +80,16 @@ Implementar y probar
   ↓
 Refactorizar
   ↓
-Validar calidad y documentar
+Sonar
+  ↓
+Descubrir que Sonar tiene opiniones
+  ↓
+Corregir, documentar y entregar
 </pre>
 
-**La arquitectura debe explicar el sistema, no esconderlo detrás de ceremonia.**
+**La arquitectura debe ayudar a entender el sistema, no convertirlo en una búsqueda del tesoro.**
 
-Y, si es posible, el siguiente desarrollador debería poder entender el código sin necesidad de convocar a sus antepasados.
+Idealmente, el siguiente desarrollador debería poder seguir el código sin recurrir a arqueología, espiritismo o `git blame` con intención homicida.
 
 ---
 
