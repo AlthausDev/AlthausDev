@@ -13,15 +13,15 @@
 
 ## Sobre mí
 
-Soy desarrollador **backend**, principalmente con **Java**, especializado en mantenimiento evolutivo, integraciones, refactorización y aplicaciones empresariales que suelen haber vivido varias vidas antes de llegar a mis manos.
+Soy desarrollador **backend**, principalmente con **Java**. Trabajo con aplicaciones empresariales, una clase de criatura que suele llegar acompañada de documentación incompleta, decisiones antiguas y al menos una pieza que nadie quiere tocar porque, técnicamente, sigue funcionando.
 
-Mi experiencia profesional gira alrededor de **Java, Struts 2, JSP, Maven, Oracle, SOAP, WSDL/XML, Apache CXF y JAXB**, con **JUnit, Mockito, SonarQube, JaCoCo, Git/GitLab, JBoss y Jenkins** formando parte habitual del paisaje.
+Mi experiencia profesional gira alrededor de **Java, Struts 2, JSP, Maven, Oracle, SOAP, WSDL/XML, Apache CXF y JAXB**, con **JUnit, Mockito, SonarQube, JaCoCo, Git/GitLab, JBoss y Jenkins** formando parte habitual del ecosistema.
 
-Mi forma de diseñar está muy influida por **Clean Architecture de Robert C. Martin**: responsabilidades claras, dependencias controladas e infraestructura procurando no invadir lugares donde nadie la había invitado.
+Mi forma de diseñar está muy influida por **Clean Architecture de Robert C. Martin**: responsabilidades claras, dependencias controladas y la firme convicción de que la infraestructura debería permanecer en su sitio, donde pueda ser vigilada.
 
-También he hecho mis pinitos con **Spring Boot, C#/.NET, WPF, Kotlin/Jetpack Compose, Angular/TypeScript, MongoDB, Firebase, REST, Python, PowerShell y Docker**. Algunas las conozco bien; con otras sé, al menos, qué documentación abrir antes de provocar un incidente.
+También he hecho mis pinitos con **Spring Boot, C#/.NET, WPF, Kotlin/Jetpack Compose, Angular/TypeScript, MongoDB, Firebase, REST, Python, PowerShell y Docker**. Algunas las manejo bien. Con otras mantengo una relación cordial basada en documentación, prudencia y no tocar nada con demasiada confianza.
 
-Buena parte de mi trabajo profesional no puede publicarse por confidencialidad, así que este GitHub contiene sobre todo **proyectos personales, formación y laboratorios técnicos**.
+Buena parte de mi trabajo profesional no puede publicarse por confidencialidad, así que este GitHub contiene sobre todo **proyectos personales, formación y laboratorios técnicos**: lugares seguros donde romper cosas tiene consecuencias principalmente educativas.
 
 📎 [LinkedIn — Samuel Althaus](https://www.linkedin.com/in/samuelalthaus/)
 
@@ -43,16 +43,18 @@ Buena parte de mi trabajo profesional no puede publicarse por confidencialidad, 
 
 He trabajado con **Clean Architecture, Repository, Service Layer, Factory, Strategy, Dependency Injection, MVC y MVVM**.
 
-Me gustan los patrones cuando resuelven un problema. Si una interfaz, una capa o una abstracción no separa nada, no protege nada y no aclara nada, probablemente solo hemos conseguido que el mismo problema necesite más archivos.
+Me gustan los patrones cuando resuelven un problema. Si una interfaz no representa un contrato, una capa no separa responsabilidades y una abstracción no abstrae nada, quizá no tengamos arquitectura: quizá tengamos una colección de carpetas con ambiciones.
 
-**La arquitectura debe ayudar a entender el sistema, no convertirlo en una búsqueda del tesoro.**
+**La arquitectura debe ayudar a entender el sistema, no convertirlo en una expedición arqueológica.**
 
 ---
 
 ## Cómo trabajo
 
 <pre>
-Entender el problema
+Entender qué hace el sistema
+  ↓
+Descubrir qué debería hacer
   ↓
 Separar responsabilidades
   ↓
@@ -62,10 +64,12 @@ Implementar y probar
   ↓
 Refactorizar
   ↓
-Validar, documentar y entregar
+Convencer a Sonar
+  ↓
+Documentar y entregar
 </pre>
 
-Idealmente, el siguiente desarrollador debería poder seguir el código sin recurrir a arqueología, espiritismo o `git blame` con intención homicida.
+El objetivo final es sencillo: que el siguiente desarrollador pueda seguir el código sin recurrir a espiritismo, paleografía o `git blame` como instrumento de investigación criminal.
 
 ---
 
