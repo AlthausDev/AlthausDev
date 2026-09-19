@@ -19,9 +19,9 @@ Trabajo con aplicaciones empresariales, que son sistemas perfectamente racionale
 
 Mi hábitat habitual incluye **Java, Struts 2, JSP, Maven, Oracle, SOAP, WSDL/XML, Apache CXF y JAXB**. Por allí merodean también **JUnit, Mockito, SonarQube, JaCoCo, Git/GitLab, JBoss y Jenkins**, cada uno convencido de que es la parte importante del proceso.
 
-Diseño siguiendo bastante de cerca **Clean Architecture de Robert C. Martin**: responsabilidades claras, dependencias apuntando donde deben y detalles de infraestructura mantenidos a una distancia prudencial de la lógica importante.
+Diseño siguiendo bastante de cerca la **Clean Architecture del tío Bob**: responsabilidades claras, dependencias apuntando donde deben y detalles de infraestructura mantenidos a una distancia prudencial de la lógica importante.
 
-También he hecho mis pinitos con **Spring Boot, C#/.NET, WPF, Kotlin/Jetpack Compose, Angular/TypeScript, MongoDB, Firebase, REST, Python, PowerShell y Docker**. Algunas las conozco bien. Otras las conozco del modo en que uno conoce a un vecino: sé cómo se llama, dónde vive y qué puerta no conviene abrir sin leer antes la documentación.
+También he hecho mis pinitos con otros ecosistemas. Algunos ya son conocidos; otros siguen siendo esa clase de conocidos a los que uno saluda con confianza moderada y documentación abierta.
 
 Buena parte de mi trabajo profesional es confidencial, así que este GitHub contiene sobre todo **proyectos personales, formación y laboratorios técnicos**. Es decir: lugares donde una mala decisión arquitectónica termina en un commit revertido y no en una reunión extraordinaria.
 
@@ -31,13 +31,18 @@ Buena parte de mi trabajo profesional es confidencial, así que este GitHub cont
 
 ## Stack
 
+No todo lo de aquí vive al mismo nivel de confianza, pero todo ha pasado por mis manos con intención.
+
 | Área | Tecnologías |
 |---|---|
-| Backend | Java, Struts 2, JSP |
-| Integraciones | SOAP, WSDL, XML, Apache CXF, JAXB |
-| Datos | SQL, Oracle |
-| Calidad | Maven, JUnit, Mockito, SonarQube, JaCoCo |
-| Herramientas | Git, GitLab, JBoss, Log4j, Jenkins, JIRA |
+| Backend | Java, Struts 2, Spring Boot, C#/.NET, ASP.NET Core |
+| Web / UI | JSP, HTML, JavaScript, Angular/TypeScript, WPF, Kotlin/Jetpack Compose |
+| Integraciones | SOAP, REST, WebSocket/STOMP, WSDL, XML, Apache CXF, JAXB |
+| Datos | SQL, Oracle, MySQL/MariaDB, MongoDB, Firebase/Firestore |
+| Arquitectura | Clean Architecture, MVC, MVVM, Repository, Service Layer, Factory, Strategy, DI |
+| Testing / calidad | Maven, JUnit, Mockito, NUnit, Vitest, SonarQube, JaCoCo |
+| Herramientas | Git, GitHub, GitLab, JBoss, Log4j, Jenkins, JIRA, Docker |
+| Otros | Python, PowerShell, Batch |
 
 ---
 
