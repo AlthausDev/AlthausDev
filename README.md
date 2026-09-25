@@ -17,7 +17,7 @@ Soy desarrollador **backend**, principalmente con **Java**.
 
 Trabajo con aplicaciones empresariales, que son sistemas perfectamente racionales siempre que uno acepte una definición de «racional» lo bastante generosa como para incluir decisiones tomadas hace quince años, tres migraciones incompletas y una clase que nadie toca porque *funciona*.[^1]
 
-Mi hábitat habitual incluye **Java, Struts 2, JSP, Maven, Oracle, SOAP, WSDL/XML, Apache CXF y JAXB**. Por allí merodean también **JUnit, Mockito, SonarQube, JaCoCo, Git/GitLab, JBoss y Jenkins**, cada uno convencido de que es la parte importante del proceso.
+Mi hábitat profesional abarca desde **Java 8, Struts 2 y JSP** hasta **Java 17, Spring Framework, JPA/Hibernate y Spring Data**, con **Maven, Oracle, SOAP, WSDL/XML, Apache CXF, JAXB/Jakarta XML Binding, Liquibase, JUnit y Sonar** formando parte del paisaje. Es un ecosistema amplio; algunas especies son modernas y otras han sobrevivido varias extinciones.
 
 Diseño siguiendo bastante de cerca la **Clean Architecture del tío Bob**: responsabilidades claras, dependencias apuntando donde deben y detalles de infraestructura mantenidos a una distancia prudencial de la lógica importante.
 
@@ -35,13 +35,15 @@ No todo lo de aquí vive al mismo nivel de confianza, pero todo ha pasado por mi
 
 | Área | Tecnologías |
 |---|---|
-| Backend | Java, Struts 2, Spring Boot, C#/.NET, ASP.NET Core |
+| Backend | Java 8/17, Struts 2, Spring Framework, Spring Boot, C#/.NET, ASP.NET Core |
+| Persistencia | JPA, Spring Data JPA, Hibernate ORM, Hibernate Tools, SQL, Oracle, MySQL/MariaDB, MongoDB, Firebase/Firestore, Liquibase |
+| Integraciones | SOAP, REST, WebSocket/STOMP, WSDL, XML, Apache CXF, JAXB / Jakarta XML Binding, Jakarta XML Web Services |
+| Mapeo / modelos | DTO, records, MapStruct |
 | Web / UI | JSP, HTML, JavaScript, Angular/TypeScript, WPF, Kotlin/Jetpack Compose |
-| Integraciones | SOAP, REST, WebSocket/STOMP, WSDL, XML, Apache CXF, JAXB |
-| Datos | SQL, Oracle, MySQL/MariaDB, MongoDB, Firebase/Firestore |
 | Arquitectura | Clean Architecture, MVC, MVVM, Repository, Service Layer, Factory, Strategy, DI |
-| Testing / calidad | Maven, JUnit, Mockito, NUnit, Vitest, SonarQube, JaCoCo |
-| Herramientas | Git, GitHub, GitLab, JBoss, Log4j, Jenkins, JIRA, Docker |
+| Testing / calidad | JUnit 5, Mockito, NUnit, Vitest, SonarLint, SonarQube, JaCoCo |
+| Build / runtime | Maven, JBoss EAP, Log4j |
+| Herramientas | Git, GitHub, GitLab, Jenkins, JIRA, Conventional Commits, Docker |
 | Otros | Python, PowerShell, Batch |
 
 ---
