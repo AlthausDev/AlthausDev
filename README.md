@@ -1,4 +1,4 @@
-<h1 align="center">Sam Althaus — Backend Software Developer</h1>
+<p align="center"><strong>Sam Althaus — Backend Software Developer</strong></p>
 
 <p align="center">
   <b>Java · Backend · Software Design · Integrations</b><br>
@@ -11,7 +11,7 @@
 
 ---
 
-<h2>Sobre mí</h2>
+<p><strong>Sobre mí</strong></p>
 
 Soy desarrollador **backend**, principalmente con **Java**.
 
@@ -36,7 +36,7 @@ Buena parte de mi trabajo profesional es confidencial, así que este GitHub cont
 
 ---
 
-<h2>Stack</h2>
+<p><strong>Stack</strong></p>
 
 No todo lo de aquí ha vivido la misma vida. Algunas tecnologías pagan facturas; otras han sobrevivido a proyectos suficientemente serios como para ganarse un sitio en la mesa.
 
@@ -55,13 +55,13 @@ No todo lo de aquí ha vivido la misma vida. Algunas tecnologías pagan facturas
 
 ---
 
-<h2>Arquitectura y diseño</h2>
+<p><strong>Arquitectura y diseño</strong></p>
 
-<h3>Patrones de diseño / aplicación</h3>
+<p><strong>Patrones de diseño / aplicación</strong></p>
 
 **Repository · Service Layer · Facade · Factory · Strategy · Command · Singleton · Adapter · Dependency Injection**
 
-<h3>Patrones y estilos arquitectónicos</h3>
+<p><strong>Patrones y estilos arquitectónicos</strong></p>
 
 **Arquitectura por capas · MVC · MVVM**
 
@@ -75,7 +75,7 @@ Una interfaz que no representa un contrato, una capa que no separa nada y una ab
 
 ---
 
-<h2>Cómo trabajo</h2>
+<p><strong>Cómo trabajo</strong></p>
 
 <pre>
 Entender qué hace
@@ -99,13 +99,13 @@ El objetivo es que el siguiente desarrollador pueda entender el código sin nece
 
 ---
 
-<h2>Estadísticas</h2>
+<p><strong>Estadísticas</strong></p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=althausdev&show_icons=true&locale=es&layout=compact&theme=transparent" alt="Top Langs">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=althausdev&theme=github_dark&hide_logo=true&animation=load&duration=1.2" alt="GitHub Stats">
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=althausdev&theme=transparent" alt="Profile Summary">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=althausdev&theme=github_dark&animation=load&duration=1.2" alt="Lenguajes por commits">
 </p>
 
