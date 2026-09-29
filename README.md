@@ -1,7 +1,8 @@
-<p align="center"><strong>Sam Althaus — Backend Software Developer</strong></p>
+<p align="center">
+  <img src="./assets/profile-header.svg" width="100%" alt="Sam Althaus — Backend Software Developer">
+</p>
 
 <p align="center">
-  <b>Java · Backend · Software Design · Integrations</b><br>
   <i>Intentando que el código haga lo que dice, que ya sería bastante</i>
 </p>
 
@@ -102,10 +103,18 @@ El objetivo es que el siguiente desarrollador pueda entender el código sin nece
 <p><strong>Estadísticas</strong></p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=althausdev&theme=github_dark&hide_logo=true&animation=load&duration=1.2" alt="GitHub Stats">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=AlthausDev&theme=dark&locale=es&hide_border=true">
+    <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=AlthausDev&theme=default&locale=es&hide_border=true">
+    <img src="https://streak-stats.demolab.com?user=AlthausDev&theme=default&locale=es&hide_border=true" alt="Racha y contribuciones de GitHub">
+  </picture>
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=althausdev&theme=github_dark&animation=load&duration=1.2" alt="Lenguajes por commits">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=AlthausDev&theme=react-dark&hide_border=true&area=true&custom_title=Actividad%20reciente">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=AlthausDev&theme=github-compact&hide_border=true&area=true&custom_title=Actividad%20reciente">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=AlthausDev&theme=github-compact&hide_border=true&area=true&custom_title=Actividad%20reciente" alt="Actividad reciente en GitHub">
+  </picture>
 </p>
 
