@@ -17,11 +17,11 @@ Soy desarrollador **backend**, principalmente con **Java**.
 
 Trabajo con aplicaciones empresariales, que son sistemas perfectamente racionales siempre que uno acepte una definición de «racional» lo bastante generosa como para incluir decisiones tomadas hace quince años, tres migraciones incompletas y una clase que nadie toca porque *funciona*.[^1]
 
-Mi hábitat profesional abarca desde **Java 8, Struts 2 y JSP** hasta **Java 17, Spring Framework, JPA/Hibernate y Spring Data**, con **Maven, Oracle, SOAP, WSDL/XML, Apache CXF, JAXB/Jakarta XML Binding, Liquibase, JUnit y Sonar** formando parte del paisaje. Es un ecosistema amplio; algunas especies son modernas y otras han sobrevivido varias extinciones.
+Mi día a día abarca desde **Java 8, Struts 2 y JSP** hasta **Java 17, Spring Framework, JPA/Hibernate y Spring Data**, con **Oracle, Maven, SOAP, WSDL/XML, Apache CXF, JAXB/Jakarta XML Binding, MapStruct y Liquibase** formando parte del paisaje.
+
+También me toca llevar los cambios hasta el mundo real: **JUnit/Mockito, JaCoCo, SonarLint/SonarQube, Git/GitLab, Jenkins y JBoss EAP**. Últimamente, además, JBoss ha dejado de ser simplemente el lugar donde vive la aplicación y ha empezado a exigir que sepa cómo llegó hasta allí.
 
 Diseño siguiendo bastante de cerca la **Clean Architecture del tío Bob**: responsabilidades claras, dependencias apuntando donde deben y detalles de infraestructura mantenidos a una distancia prudencial de la lógica importante.
-
-También he hecho mis pinitos con otros ecosistemas. Algunos ya son conocidos; otros siguen siendo esa clase de conocidos a los que uno saluda con confianza moderada y documentación abierta.
 
 Buena parte de mi trabajo profesional es confidencial, así que este GitHub contiene sobre todo **proyectos personales, formación y laboratorios técnicos**. Es decir: lugares donde una mala decisión arquitectónica termina en un commit revertido y no en una reunión extraordinaria.
 
@@ -31,20 +31,26 @@ Buena parte de mi trabajo profesional es confidencial, así que este GitHub cont
 
 ## Stack
 
-No todo lo de aquí vive al mismo nivel de confianza, pero todo ha pasado por mis manos con intención.
+No todo lo de aquí vive al mismo nivel de confianza. La primera mitad paga las facturas; la segunda ha pasado por mis manos el tiempo suficiente como para dejar recuerdos.
+
+### Profesional
 
 | Área | Tecnologías |
 |---|---|
-| Backend | Java 8/17, Struts 2, Spring Framework, Spring Boot, C#/.NET, ASP.NET Core |
-| Persistencia | JPA, Spring Data JPA, Hibernate ORM, Hibernate Tools, SQL, Oracle, MySQL/MariaDB, MongoDB, Firebase/Firestore, Liquibase |
-| Integraciones | SOAP, REST, WebSocket/STOMP, WSDL, XML, Apache CXF, JAXB / Jakarta XML Binding, Jakarta XML Web Services |
-| Mapeo / modelos | DTO, records, MapStruct |
-| Web / UI | JSP, HTML, JavaScript, Angular/TypeScript, WPF, Kotlin/Jetpack Compose |
-| Arquitectura | Clean Architecture, MVC, MVVM, Repository, Service Layer, Factory, Strategy, DI |
-| Testing / calidad | JUnit 5, Mockito, NUnit, Vitest, SonarLint, SonarQube, JaCoCo |
+| Backend | Java 8/17, Struts 2, Spring Framework, JSP |
+| Persistencia | JPA, Spring Data JPA, Hibernate ORM / Tools, SQL, Oracle, Liquibase |
+| Integraciones | SOAP, WSDL, XML, Apache CXF, JAXB / Jakarta XML Binding, Jakarta XML Web Services |
+| Mapeo / modelo | DTO, records, MapStruct |
+| Testing / calidad | JUnit 5, Mockito, SonarLint, SonarQube, JaCoCo |
 | Build / runtime | Maven, JBoss EAP, Log4j |
-| Herramientas | Git, GitHub, GitLab, Jenkins, JIRA, Conventional Commits, Docker |
-| Otros | Python, PowerShell, Batch |
+| Herramientas | Git, GitLab, Jenkins, JIRA, Conventional Commits |
+| Web | HTML y mantenimiento de JavaScript existente |
+
+### Experiencia práctica
+
+**Spring Boot, C#/.NET, ASP.NET Core, WPF/MVVM, Kotlin/Jetpack Compose, REST, WebSocket/STOMP, MongoDB y Firebase/Firestore.**
+
+No los pongo aquí para sugerir que podría despertar mañana siendo especialista en todos ellos. Eso requeriría una cantidad de café incompatible con la legislación vigente.
 
 ---
 
