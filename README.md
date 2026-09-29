@@ -11,7 +11,7 @@
 
 ---
 
-## Sobre mí
+<h2>Sobre mí</h2>
 
 Soy desarrollador **backend**, principalmente con **Java**.
 
@@ -36,7 +36,7 @@ Buena parte de mi trabajo profesional es confidencial, así que este GitHub cont
 
 ---
 
-## Stack
+<h2>Stack</h2>
 
 No todo lo de aquí ha vivido la misma vida. Algunas tecnologías pagan facturas; otras han sobrevivido a proyectos suficientemente serios como para ganarse un sitio en la mesa.
 
@@ -55,13 +55,13 @@ No todo lo de aquí ha vivido la misma vida. Algunas tecnologías pagan facturas
 
 ---
 
-## Arquitectura y diseño
+<h2>Arquitectura y diseño</h2>
 
-### Patrones de diseño / aplicación
+<h3>Patrones de diseño / aplicación</h3>
 
 **Repository · Service Layer · Facade · Factory · Strategy · Command · Singleton · Adapter · Dependency Injection**
 
-### Patrones y estilos arquitectónicos
+<h3>Patrones y estilos arquitectónicos</h3>
 
 **Arquitectura por capas · MVC · MVVM**
 
@@ -75,7 +75,7 @@ Una interfaz que no representa un contrato, una capa que no separa nada y una ab
 
 ---
 
-## Cómo trabajo
+<h2>Cómo trabajo</h2>
 
 <pre>
 Entender qué hace
@@ -99,7 +99,7 @@ El objetivo es que el siguiente desarrollador pueda entender el código sin nece
 
 ---
 
-## Estadísticas
+<h2>Estadísticas</h2>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=althausdev&show_icons=true&locale=es&layout=compact&theme=transparent" alt="Top Langs">
@@ -109,8 +109,3 @@ El objetivo es que el siguiente desarrollador pueda entender el código sin nece
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=althausdev&theme=transparent" alt="Profile Summary">
 </p>
 
----
-
-## Licencia y atribución
-
-El contenido original de este repositorio de perfil puede reutilizarse bajo la [licencia de atribución](LICENSE). Si reutilizas una parte sustancial, cita a **Sam Althaus / AlthausDev** y, cuando sea práctico, enlaza el repositorio original.
