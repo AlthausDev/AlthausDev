@@ -16,15 +16,15 @@
 
 Soy desarrollador **backend**, principalmente con **Java**.
 
-Tengo facilidad para ver estructuras: responsabilidades, dependencias, límites y esas decisiones diminutas que nacen como un inocente `TODO` y, si nadie interviene, terminan gobernando provincias enteras de la aplicación.
+Tengo facilidad para ver estructuras: responsabilidades, dependencias, límites y esas decisiones diminutas que nacen como un inocente `TODO` y, si nadie interviene, terminan gobernando provincias enteras de la aplicación.[^2]
 
 Me gusta el software **elegante, legible y bien proporcionado**. Cada capa debería conocer sus asuntos, ignorar educadamente los ajenos y abstenerse de atravesar fronteras sin una razón bastante mejor que «era más cómodo».[^1]
 
-Me interesan especialmente las ideas clásicas de **abstracción, modularidad y contratos** —Liskov y compañía ya habían pensado bastante antes de que muchas de ellas recibieran nombres nuevos, logotipos y conferencias—.
+Me interesan especialmente las ideas clásicas de **abstracción, modularidad y contratos** —Liskov y compañía ya habían pensado bastante antes de que muchas de ellas recibieran nombres nuevos, logotipos y conferencias—.[^3]
 
 Primero entiendo el problema. Luego los datos, los modelos y el flujo. Después aparece la arquitectura, que consiste principalmente en poner cada cosa donde debería haber estado desde el principio y fingir que era evidente.
 
-En legacy uso bisturí. En sistemas nuevos refactorizo pronto. Y la deuda técnica puede existir, por supuesto; solo procuro mantenerla localizada, identificada y lejos de cualquier institución dispuesta a concederle crédito.
+En legacy uso bisturí. En sistemas nuevos refactorizo pronto. Y la deuda técnica puede existir, por supuesto; solo procuro mantenerla localizada, identificada y lejos de cualquier institución dispuesta a concederle crédito.[^4]
 
 **Una buena estructura parece obvia cuando está terminada.  
 La estructura, naturalmente, no considera necesario explicar cuánto costó conseguirlo.**
@@ -33,7 +33,6 @@ Buena parte de mi trabajo profesional es confidencial, así que este GitHub cont
 
 📎 [LinkedIn — Samuel Althaus](https://www.linkedin.com/in/samuelalthaus/)
 
-[^1]: Muchas catástrofes informáticas comenzaron con una frase similar.
 
 ---
 
@@ -68,11 +67,10 @@ No todo lo de aquí ha vivido la misma vida. Algunas tecnologías pagan facturas
 
 Me gustan los patrones. Me gustan especialmente cuando solucionan algo.
 
-Una interfaz que no representa un contrato, una capa que no separa nada y una abstracción que obliga a abrir seis archivos para averiguar dónde se suma dos más dos no son arquitectura. Son burocracia con llaves y punto y coma.[^2]
+Una interfaz que no representa un contrato, una capa que no separa nada y una abstracción que obliga a abrir seis archivos para averiguar dónde se suma dos más dos no son arquitectura. Son burocracia con llaves y punto y coma.[^5]
 
 **La arquitectura debe reducir el misterio, no institucionalizarlo.**
 
-[^2]: A veces también XML.
 
 ---
 
@@ -96,7 +94,7 @@ Negociar con Sonar
 Documentar y entregar
 </pre>
 
-El objetivo es que el siguiente desarrollador pueda entender el código sin necesidad de arqueología, espiritismo ni una sesión particularmente rencorosa de `git blame`.
+El objetivo es que el siguiente desarrollador pueda entender el código sin necesidad de arqueología, espiritismo ni una sesión particularmente rencorosa de `git blame`.[^6]
 
 ---
 
@@ -118,3 +116,9 @@ El objetivo es que el siguiente desarrollador pueda entender el código sin nece
   </picture>
 </p>
 
+[^1]: Muchas catástrofes informáticas comenzaron con una frase similar.
+[^2]: Los `TODO` tienen una sorprendente capacidad para adquirir antigüedad, contexto y derechos históricos.
+[^3]: Cambiar el nombre a una idea no invalida la idea. Sí suele mejorar las diapositivas.
+[^4]: La deuda técnica, como la financiera, rara vez desaparece por dejar de mirar el saldo.
+[^5]: A veces también XML.
+[^6]: `git blame` no asigna culpa. Técnicamente.
